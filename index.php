@@ -78,6 +78,10 @@
     <div id="content" class="row text-center p-4">
         <div class="col-6 offset-3">
 
+            <h2>Outil de gestion de projet</h2>
+            <p>
+            voici l'outil de gestion et de suivi de projet 
+            </p>
         </div>
     </div> <!-- / fin de la ligne id=content --> 
 </div> <!-- / fin du container  --> 
